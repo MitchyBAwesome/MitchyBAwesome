@@ -5,7 +5,7 @@ I'm Mitch, A Principal Solutions Architect working for Amazon Web Services. How 
 - [LinkedIn](https://www.linkedin.com/in/mitchellbeaumont/)
 - [MitchyB.com](https://www.mitchyb.com/)
 
-## Blog posts I've written
+## 📔 Blog posts
 
 - [Introducing IAM Access Analyzer custom policy checks](https://aws.amazon.com/blogs/security/introducing-iam-access-analyzer-custom-policy-checks/)
 - [Validate IAM policies by using IAM Policy Validator for AWS CloudFormation and GitHub Actions](https://aws.amazon.com/blogs/security/validate-iam-policies-by-using-iam-policy-validator-for-aws-cloudformation-and-github-actions/)
