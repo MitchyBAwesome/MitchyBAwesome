@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mitch, A Principal Solutions Architect working for Amazon Web Services. How to reach me:
+I'm Mitch, a Principal Solutions Architect working for Amazon Web Services. How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/mitchellbeaumont/)
 - [MitchyB.com](https://www.mitchyb.com/)
