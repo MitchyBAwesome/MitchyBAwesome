@@ -11,6 +11,7 @@ I'm Mitch, a Principal Solutions Architect working for Amazon Web Services. How 
 - [Validate IAM policies by using IAM Policy Validator for AWS CloudFormation and GitHub Actions](https://aws.amazon.com/blogs/security/validate-iam-policies-by-using-iam-policy-validator-for-aws-cloudformation-and-github-actions/)
 - [How AWS built the Security Guardians program, a mechanism to distribute security ownership](https://aws.amazon.com/blogs/security/introducing-iam-access-analyzer-custom-policy-checks/)
 - [How to build a Security Guardians program to distribute security ownership](https://aws.amazon.com/blogs/security/how-to-build-your-own-security-guardians-program/)
+- [Beyond IAM access keys: Modern authentication approaches for AWS](https://aws.amazon.com/blogs/security/beyond-iam-access-keys-modern-authentication-approaches-for-aws/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchyBAwesome&show_icons=true&theme=dracula)
 
